@@ -7,9 +7,9 @@
 
 # Build
 ### Server
-Run: python server.py 12345
+Run: python server.py <port>
 ### Client
-Run: python client.py 127.0.0.1 12345
+Run: python client.py <host> <port>
 
 # Client Usage
 1. Enter a medical procedure

@@ -3,7 +3,7 @@
 ### Install Dependencies:
 **Fuzzywuzzy** : Fuzzy Logic String Matcing Library
 - Link: https://github.com/seatgeek/fuzzywuzzy
-- Install: pip install fuzzywuzzy
+- Install: `pip install fuzzywuzzy`
 
 # Build
 ### Server

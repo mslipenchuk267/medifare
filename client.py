@@ -1,5 +1,5 @@
 # client.py
-# Usage: ./client <host> <port number> <query>
+# Usage: ./client <host> <port number>
 # This is a client used for testing the functionality of the server
 # Import socket module 
 import socket, sys  
